@@ -1,7 +1,7 @@
 # All the bouncing stuff using C++ and SFML
 
 # 1.) Bouncing Miao Meme
-This is my first C++ and SFML game program
+Creating all the stuff that can bounce within the window =)
 
 For setting up SFML, I am following steps in this YouTube video
 https://www.youtube.com/watch?v=lFzpkvrscs4&list=LL&index=1
