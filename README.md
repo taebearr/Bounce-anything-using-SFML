@@ -24,21 +24,35 @@ User can add and define the shapes(circle/rectangle), size, speed, and color in 
 Format
 
 Rectangle N X Y SX SY R G B W H R
+
 - Defines a Rectangle shape with:
+  
   Shape Name  Name  std::string
+  
   Initial Position  (X,Y)   float, float
+  
   Initial Speed  (SX,SY)  float, float
+  
   RGB Color  (R,G,B)  int, int, int
+  
   Size  (W,H)  float, float
+  
   Radius  R  float ---> (define 0 for rectangle)
 
 Circle N X Y SX SY R G B W H R
+
 - Defines a Rectangle shape with:
+  
   Shape Name  Name  std::string
+  
   Initial Position  (X,Y)   float, float
+  
   Initial Speed  (SX,SY)  float, float
+  
   RGB Color  (R,G,B)  int, int, int
+  
   Size  (W,H)  float, float ---> (define 0, 0 for circle shape)
+  
   Radius  R  float
 
 
